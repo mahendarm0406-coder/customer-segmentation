@@ -1,5 +1,23 @@
-# PhonePe Pulse - Data
+# PhonePe Customer Segmentation Project
 
+[[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gvvuP1OhvgQReAjR-8Z8fF42uYsEozLY)
+
+**Author**: Mahendar M  
+**Objective**: KMeans clustering model to segment PhonePe users based on transaction behavior.
+
+### **Project Files**
+- `kmeans_customer_segments.pkl` : Trained KMeans model
+- `scaler.pkl` : StandardScaler for preprocessing  
+- `phonepe_analysis.db` : SQLite DB with processed data
+- `Sample_ML_Submission_Template-2.ipynb` : Main analysis notebook
+
+### **Run the Analysis**
+Click the "Open in Colab" badge above to run the full notebook instantly.
+
+---
+
+## Original PhonePe Pulse Documentation
+   
 The Indian digital payments story has truly captured the world’s imagination. From the largest towns to the remotest villages, there is a payments revolution being driven by the penetration of mobile phones, mobile internet and state-of-art payments infrastructure built as Public Goods championed by the central bank and the government. PhonePe started in 2016 and has been a strong beneficiary of the API driven digitisation of payments in India. When we started , we were constantly looking for definitive data sources on digital payments in India without much success. As a way of giving back to the data and developer community, we decided to open the anonymised aggregate data sets that demystify the what, why and how of digital payments in India. Licensed under the [CDLA-Permissive-2.0 open data license](https://github.com/PhonePe/pulse/blob/master/LICENSE), the PhonePe Pulse Dataset API is a first of its kind open data initiative in the payments space.
 
 ## Announcements
