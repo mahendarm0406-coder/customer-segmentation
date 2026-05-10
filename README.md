@@ -1,6 +1,6 @@
 # PhonePe Customer Segmentation Project
 
-[[[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gvvuP1OhvgQReAjR-8Z8fF42uYsEozLY)
+[[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gvvuP1OhvgQReAjR-8Z8fF42uYsEozLY)
 
 **Author**: Mahendar M  
 **Objective**: KMeans clustering model to segment PhonePe users based on transaction behavior.
